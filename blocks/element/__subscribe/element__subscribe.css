@@ -1,11 +1,10 @@
 .element__subscribe {
-    margin: 0;
-    padding: 25px 0px;
-    padding-left: 21px;
-    background: #FFFFFF;
-    border-radius: 0px 0px 10px 10px;
-    align-items: center;
-    display: flex;
-    height: 35px;
-    justify-content: space-between;
-  }
+  margin: 0;
+  padding-left: 21px;
+  background: #ffffff;
+  border-radius: 0px 0px 10px 10px;
+  align-items: center;
+  display: flex;
+  min-height: 35px;
+  justify-content: space-between;
+}
